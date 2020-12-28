@@ -17,21 +17,21 @@ App_SDK_Pay
             
        
             
-Pay_Base: 
-    定义接口，定义基本的数据类型
+Pay_Base: <br>
+    定义接口，定义基本的数据类型<br>
  
  
-Pay_Impl_A: 
+Pay_Impl_A: <br>
 
-Pay_Impl_B: 
+Pay_Impl_B: <br>
 
-Pay_Impl_C: 
-    实现具体支付(也即上面的App_SDK_Pay_GOOGLE...)-->依赖Pay_Base
+Pay_Impl_C: <br>
+    实现具体支付(也即上面的App_SDK_Pay_GOOGLE...)-->依赖Pay_Base<br>
 
 
-Pay_Main: 调用逻辑 
-    -->根据配置动态依赖Pay_Impl_A，Pay_Impl_B，Pay_Impl_C
-    -->依赖Pay_Base
+Pay_Main: 调用逻辑 <br>
+    -->根据配置动态依赖Pay_Impl_A，Pay_Impl_B，Pay_Impl_C<br>
+    -->依赖Pay_Base<br>
 
 
 
