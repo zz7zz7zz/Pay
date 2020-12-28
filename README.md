@@ -1,20 +1,26 @@
 # Pay
 
 
-国外：
+一、国外支付SDK：
 
     一、谷歌支付
 
     二、华为支付
 
-基于策略的逻辑设计SDK<br>
-App_SDK_Pay <br><br>
-        App_SDK_Pay_GOOGLE<br>
-        App_SDK_Pay_Huawei<br>
-        App_SDK_Pay_ZFB<br>
-        App_SDK_Pay_TX<br>
+
+二、设计思路（基于策略的逻辑设计SDK）：
+    App_SDK_Pay：
+
+    App_SDK_Pay_GOOGLE
+
+    App_SDK_Pay_Huawei
+    
+    App_SDK_Pay_ZFB
+    
+    App_SDK_Pay_TX
+
        
- 具体如下：           
+ 具体实现如下：           
     
     Pay_Base: <br>
         定义接口，定义基本的数据类型<br>
@@ -33,6 +39,13 @@ App_SDK_Pay <br><br>
         -->依赖Pay_Base<br>
 
 
+三、支付流程
 
+    1.获取商品列表
+    
+    2.创建订单
+    
+    
+    
 
 
