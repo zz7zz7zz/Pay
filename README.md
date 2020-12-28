@@ -7,14 +7,12 @@
 
     二、华为支付
 
-基于策略的逻辑设计SDK
-App_SDK_Pay
-            App_SDK_Pay_GOOGLE
-            App_SDK_Pay_Huawei
-            App_SDK_Pay_ZFB
-            App_SDK_Pay_TX
-            
-            
+基于策略的逻辑设计SDK<br>
+App_SDK_Pay <br><br>
+        App_SDK_Pay_GOOGLE<br>
+        App_SDK_Pay_Huawei<br>
+        App_SDK_Pay_ZFB<br>
+        App_SDK_Pay_TX<br>
        
  具体如下：           
     
