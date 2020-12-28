@@ -10,7 +10,7 @@
 
 二、设计思路（基于策略的逻辑设计SDK）：
     
-    App_SDK_Pay：</br>
+    App_SDK_Pay：
 
         App_SDK_Pay_GOOGLE
 
